@@ -23,7 +23,19 @@ Overall, adding these features will require significant development effort, and 
 ## Can you develope a python code for it?
 Sure, here's a Python code that implements some of the features I mentioned to make ChatGPT more like Alexa:
 
-See [Python Code](./Alexa-Competitor-Code.py) 
+```python
+import speech_recognition as sr
+import pyttsx3
+import spacy
+import openai_secret_manager
+import openai
+import random
+import webbrowser
+import os
+import datetime
+```
+
+See the rest of the code at: [Python Code](./Alexa-Competitor-Code.py) 
 
 
 ## Is there any specific hardware needed?
