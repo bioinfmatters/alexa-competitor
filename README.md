@@ -35,7 +35,7 @@ import os
 import datetime
 ```
 
-See the rest of the code at: [Python Code](./Alexa-Competitor-Code.py) 
+See the rest of the code in: [Python Code](./Alexa-Competitor-Code.py) 
 
 
 ## Is there any specific hardware needed?
