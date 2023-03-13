@@ -23,6 +23,7 @@ Overall, adding these features will require significant development effort, and 
 ## Can you develope a python code for it?
 Sure, here's a Python code that implements some of the features I mentioned to make ChatGPT more like Alexa:
 
+[Python Code](./Alexa-Competitor-Code.py) file
 ```python
 import speech_recognition as sr
 import pyttsx3
